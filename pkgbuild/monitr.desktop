@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Monitr
+Comment=Manage monitor settings — resolution, refresh rate, position, rotation, and scale
+Exec=monitr %f
+Icon=monitr
+Terminal=false
+Categories=Utility;Settings;
+StartupWMClass=monitr

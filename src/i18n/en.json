@@ -1,0 +1,20 @@
+{
+  "Monitr": "Monitr",
+  "Refresh": "Refresh",
+  "Keyboard Shortcuts": "Keyboard Shortcuts",
+  "Refresh monitor list": "Refresh monitor list",
+  "Reset last change": "Reset last change",
+  "Show / hide this help": "Show / hide this help",
+  "Quit": "Quit",
+  "Close": "Close",
+  "No monitors detected.\nMake sure Hyprland is running and try refreshing.": "No monitors detected.\nMake sure Hyprland is running and try refreshing.",
+  "Resolution": "Resolution",
+  "Refresh Rate": "Refresh Rate",
+  "Position (X, Y)": "Position (X, Y)",
+  "Rotation": "Rotation",
+  "Scale": "Scale",
+  "Apply": "Apply",
+  "hyprctl not found \u2014 is Hyprland running?": "hyprctl not found \u2014 is Hyprland running?",
+  "hyprctl failed (exit %1)": "hyprctl failed (exit %1)",
+  "Failed to run hyprctl: %1": "Failed to run hyprctl: %1"
+}
